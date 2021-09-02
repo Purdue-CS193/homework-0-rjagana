@@ -6,6 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Ruchitha's First CS 193 Homework
 
+- Structure of the class
+- The TA's'
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -15,8 +18,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Structure of the class
-- The TA's 
+
 
 1. Numbered
 2. List
